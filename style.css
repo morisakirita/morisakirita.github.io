@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(189, 189, 155);
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    padding: 5px;
+}
